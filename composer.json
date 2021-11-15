@@ -1,0 +1,19 @@
+{
+    "name": "vitopedro/yii2test",
+    "description": "a simple test for a yii2 composer plugin",
+    "type": "yii2-extension",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "vitopedro\\test\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "pedrovito",
+            "email": "pedrovito@w4msolutions.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
